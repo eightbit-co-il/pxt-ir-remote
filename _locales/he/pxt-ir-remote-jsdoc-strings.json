@@ -1,0 +1,6 @@
+{
+  "irRemote": "create IR_receiver namespace\nuse for IR receiver and IR emission kit\nauthor: jieliang mo\nWrite the date: 2020-6-19",
+  "irRemote.connectInfrared": "Connects to the IR receiver module at the specified pin.\nauthor: jieliang mo\ngithub:https://github.com/mworkfun\nWrite the date: 2020-6-19",
+  "irRemote.irButton": "Returns the command code of a specific IR button.\nauthor: jieliang mo\ngithub:https://github.com/mworkfun\nWrite the date: 2020-6-19",
+  "irRemote.returnIrButton": "Returns the code of the IR button that is currently pressed and 0 if no button is pressed.\nIt is recommended to delay 110ms to read the data once\nauthor: jieliang mo\ngithub:https://github.com/mworkfun\nWrite the date: 2020-6-19"
+}
