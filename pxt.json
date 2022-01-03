@@ -1,6 +1,6 @@
 {
     "name": "pxt-ir-remote",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "infrared remote control for microbit",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,9 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locales/he/pxt-ir-remote-jsdoc-strings.json",
+        "_locales/he/pxt-ir-remote-strings.json"
     ],
     "testFiles": [
         "test.ts"
